@@ -1,6 +1,5 @@
 tell application "System Settings"
 	activate
-	
 end tell
 
 tell application "System Events"
